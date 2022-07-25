@@ -1,4 +1,2 @@
-# audio visualizer with controls
-audio visualizer with audio play controls
+## 비주얼라이저 샘플
 
-![](https://raw.githubusercontent.com/wayou/audio-visualizer-with-controls/gh-pages/assets/screenshot.jpg)
